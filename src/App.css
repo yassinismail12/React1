@@ -427,7 +427,8 @@ body {
   height: 300px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 20px;
   border-radius: 15px;
   position: relative;
   /* Ensure the pseudo-element is positioned relative to this element */
